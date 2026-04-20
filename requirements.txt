@@ -2,10 +2,3 @@ Flask
 Pillow
 gunicorn
 requests
-# AI Libraries
-diffusers
-transformers
-accelerate
-torch
-torchvision
-torchaudio
